@@ -1,21 +1,21 @@
 <h1>Agathos Template</h1>
 
 <p>
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/melquisedecfelipe/agathos-template.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/AgathosDev/cra-template-agathos.svg">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/melquisedecfelipe/agathos-template.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/AgathosDev/cra-template-agathos.svg">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/melquisedecfelipe/agathos-template.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/AgathosDev/cra-template-agathos.svg">
   
-  <a href="https://github.com/melquisedecfelipe/agathos-template/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/melquisedecfelipe/agathos-template.svg">
+  <a href="https://github.com/AgathosDev/cra-template-agathos/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AgathosDev/cra-template-agathos.svg">
   </a>
 
-  <a href="https://github.com/melquisedecfelipe/agathos-template/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/melquisedecfelipe/agathos-template.svg">
+  <a href="https://github.com/AgathosDev/cra-template-agathos/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/AgathosDev/cra-template-agathos.svg">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/melquisedecfelipe/agathos-template.svg">
+  <img alt="GitHub" src="https://img.shields.io/github/license/AgathosDev/cra-template-agathos.svg">
 </p>
 
 <p>
@@ -49,7 +49,7 @@ $ cd my-app && npm start
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/melquisedecfelipe/agathos-template/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/AgathosDev/cra-template-agathos/blob/master/LICENSE) for more information.
 
 ---
 
