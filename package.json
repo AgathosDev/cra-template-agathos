@@ -1,6 +1,6 @@
 {
   "name": "cra-template-agathos",
-  "version": "0.3.0",
+  "version": "1.0.0",
   "description": "Agathos template for create react app",
   "main": "template.json",
   "repository": {
@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/AgathosDev/cra-template-agathos/issues"
   },
-  "homepage": "https://agathos-template.netlify.com/",
+  "homepage": "https://github.com/AgathosDev/cra-template-agathos",
   "dependencies": {
     "@types/react": "^16.9.0",
     "@types/react-dom": "^16.9.0",
