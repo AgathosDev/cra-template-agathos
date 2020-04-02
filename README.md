@@ -43,7 +43,9 @@ To clone and run this application, [Node.js v10.16](https://nodejs.org/) or high
 
 ```bash
 $ npx create-react-app my-app --template agathos
-$ cd my-app && npm start
+
+# Go into the repository and run frontend
+$ cd my-app && yarn start
 ```
 
 ## :memo: License
